@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+
+.third-row {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.btn {
+    background-color: #d0d6d1;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.form {
+    display: grid;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: -300px;
+}
+
+.centered {
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    margin-top: -50px;
+    margin-left: -100px;
+}
+
+.float-left {
+    float: left;
+    padding: 20px;
+    height: 200px;
+}
+
+.float-right {
+    float: right;
+    padding: 20px;
+    height: 200px;
+}
+
+.imgStyle {
+    width: 90px;
+    height: auto;
+}
